@@ -2,10 +2,6 @@
 
 ### DevOps & Web Hosting Specialist focused on WHMCS automation, cPanel/WHM servers, and scalable hosting infrastructure.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrhussnain&label=Profile views&color=0e75b6&style=flat" alt="mrhussnain" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrhussnain" alt="mrhussnain" /></a> </p>
-
 - 👨‍💻 All of my projects are available at **[https://hussnainraza.com](https://hussnainraza.com)**
 
 <h3 align="left">Connect with me:</h3>
