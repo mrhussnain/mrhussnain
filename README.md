@@ -2,7 +2,6 @@
 
 ### DevOps & Web Hosting Specialist focused on WHMCS automation, cPanel/WHM servers, and scalable hosting infrastructure.
 
-- 👨‍💻 All of my projects are available at **[https://hussnainraza.com](https://hussnainraza.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
