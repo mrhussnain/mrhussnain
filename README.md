@@ -31,8 +31,13 @@
 
 ### 📊 GitHub Activity
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrhussnain&show_icons=true&theme=transparent&hide_border=true&title_color=0077B5" alt="Hussnain's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrhussnain&theme=transparent&hide_border=true&stroke=0077B5" alt="mrhussnain streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=mrhussnain&show_icons=true&theme=transparent&hide_border=true&cache_seconds=1800" />
+  
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrhussnain&layout=compact&theme=transparent&hide_border=true&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mrhussnain&theme=transparent&hide_border=true" />
 </p>
